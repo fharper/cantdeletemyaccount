@@ -17,11 +17,11 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ## The Shame list
 
 ### A
-- [apneaboard.com](http://www.apneaboard.com/)
+- [apneaboard.com](http://www.apneaboard.com)
 
 ### B
 - [blurb.com](https://www.blurb.com)
-- [browserstack.com](https://www.browserstack.com/)
+- [browserstack.com](https://www.browserstack.com)
 
 ### C
 
@@ -32,7 +32,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ### F
 
 ### G
-- [getflywheel.com](https://getflywheel.com/)
+- [getflywheel.com](https://getflywheel.com)
 
 ### H
 
@@ -51,8 +51,8 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ## O
 
 ### P
-- [piesync.com](https://www.piesync.com/)
-- [priceline.com](https://www.priceline.com/)
+- [piesync.com](https://www.piesync.com)
+- [priceline.com](https://www.priceline.com)
 
 ### Q
 
