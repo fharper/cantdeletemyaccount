@@ -14,6 +14,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ## A
 
 ## B
+- [blurb.com](https://www.blurb.com)
 
 ## C
 
