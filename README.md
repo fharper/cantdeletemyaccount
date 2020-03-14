@@ -48,6 +48,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ## R
 
 ## S
+* [starbucks.com](https://starbucks.com)
 
 ## T
 
@@ -64,54 +65,3 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ## Z
 
 ## \#
-
-
-C
-
-D
-
-E
-
-F
-
-G
-
-H
-
-I
-
-J
-
-K
-
-L
-
-M
-
-N
-
-O
-
-P
-
-Q
-
-R
-
-S
-
-T
-
-U
-
-V
-
-W
-
-X
-
-Y
-
-Z
-
-#
