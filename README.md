@@ -50,6 +50,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ### N
 
 ## O
+- [otter.ai](https://otter.ai)
 
 ### P
 - [petcube.com](https://petcube.com)
