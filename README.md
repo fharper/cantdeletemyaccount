@@ -72,6 +72,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 ### V
 
 ### W
+- [wecookmeals.ca](https://www.wecookmeals.ca)
 
 ### X
 
