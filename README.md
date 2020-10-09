@@ -56,6 +56,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 - [packet.com](https://www.packet.com)
 - [petcube.com](https://petcube.com)
 - [piesync.com](https://www.piesync.com)
+- [platform.sh](https://platform.sh)
 - [priceline.com](https://www.priceline.com)
 
 ### Q
