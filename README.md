@@ -29,6 +29,7 @@ P.S.: It's too time consuming for me to validate all submissions as I would have
 - [davidstea.com](https://www.davidstea.com)
 
 ### E
+- [env0.com](https://www.env0.com)
 
 ### F
 
